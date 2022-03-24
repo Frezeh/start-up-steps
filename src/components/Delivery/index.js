@@ -88,13 +88,13 @@ export default function Delivery() {
               checked={marketing}
               onChange={handleMarketingChange}
             />
-            Create roadmap
+            Release markerting website
           </label>
         </div>
         <div className="checkbox">
           <label>
             <input type="checkbox" checked={mvp} onChange={handleMVPChange} />
-            Competitor analysis
+            Release MVP
           </label>
         </div>
       </div>
